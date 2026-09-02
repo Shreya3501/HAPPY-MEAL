@@ -1,4 +1,4 @@
-# MealCart
+# HAPPY MEAL
 ![alt text](image.png)AI Recipe and Grocery List Generator
 
 A full-stack MERN application that helps users discover recipes and generate intelligent grocery lists using AI assistance.
